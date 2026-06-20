@@ -95,13 +95,13 @@ const atharva = {
 | Deployment (Vercel + Render + MongoDB Atlas) | 🔜 Coming Soon |
 
 <!-- Replace with your actual links once deployed -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME/airbnb-clone">
+<!-- <a href="https://github.com/AtharvaThawkar/airbnb-clone">
   <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="#">
+ <a href="#">
   <img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-6C63FF?style=for-the-badge&logo=vercel" alt="Live Demo"/>
-</a>
+</a> -->
 
 <br/><br/>
 
@@ -183,21 +183,22 @@ const atharva = {
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://linkedin.com/in/atharvathawkar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:atharvathawkar18@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/AtharvaThawkar">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
+<!-- After Making Portfolio site Use this Code
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=Firefox&logoColor=white" alt="Portfolio"/>
-  </a>
+  </a>  -->
 </div>
 
 <br/>
