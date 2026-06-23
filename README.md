@@ -195,10 +195,10 @@ const atharva = {
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
-<!-- After Making Portfolio site Use this Code
-  <a href="#">
+
+  <a href="https://atharvathawkar.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=Firefox&logoColor=white" alt="Portfolio"/>
-  </a>  -->
+  </a> 
 </div>
 
 <br/>
