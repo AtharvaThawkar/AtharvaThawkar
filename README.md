@@ -13,9 +13,9 @@
 
 <br>
 
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&label=FOLLOWERS&color=111827"/>
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&label=STARS&color=111827"/>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00D9FF&label=VISITORS"/>
+<img src="https://img.shields.io/github/followers/AtharvaThawkar?style=for-the-badge&label=FOLLOWERS&color=111827"/>
+<img src="https://img.shields.io/github/stars/AtharvaThawkar?style=for-the-badge&label=STARS&color=111827"/>
+<img src="https://komarev.com/ghpvc/?username=AtharvaThawkar&style=for-the-badge&color=00D9FF&label=VISITORS"/>
 
 </div>
 
@@ -65,12 +65,12 @@
 
 ## 🔥 `PROJECTS`
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_PROJECT">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_PROJECT&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF"/>
+<a href="https://github.com/AtharvaThawkar/Weather_API_project">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaThawkar&repo=Weather_API_project&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_PROJECT">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_PROJECT&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF"/>
+<a href="https://github.com/AtharvaThawkar/My_Portfolio_Page">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaThawkar&repo=My_Portfolio_Page&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF"/>
 </a>
 
 </div>
@@ -81,13 +81,13 @@
 
 ## 📊 `GITHUB`
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=00D9FF&icon_color=00D9FF&text_color=94A3B8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AtharvaThawkar&show_icons=true&hide_border=true&theme=transparent&title_color=00D9FF&icon_color=00D9FF&text_color=94A3B8"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=00D9FF&text_color=94A3B8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaThawkar&layout=compact&hide_border=true&theme=transparent&title_color=00D9FF&text_color=94A3B8"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
+<img src="https://streak-stats.demolab.com?user=AtharvaThawkar&theme=transparent&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
 
 </div>
 
@@ -97,7 +97,7 @@
 
 ## 🌐 `ACTIVITY`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=050816&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaThawkar&bg_color=050816&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
@@ -128,11 +128,11 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/atharvathawkar">
 <img src="https://img.shields.io/badge/LINKEDIN-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:atharvathawkar18@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-00D9FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
